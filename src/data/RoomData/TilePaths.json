@@ -1,0 +1,20 @@
+{
+  "tilePaths": [
+    {
+      "title": "",
+      "path": "/assets/images/tile.jpg"
+    },
+    {
+      "title": "",
+      "path": "/assets/images/tiletwo.jpeg"
+    },
+    {
+      "title": "",
+      "path": "/assets/images/tilethree.jpeg"
+    },
+    {
+      "title": "",
+      "path": "/assets/images/tilefour.jpeg"
+    }
+  ]
+}

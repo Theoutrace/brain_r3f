@@ -1,0 +1,48 @@
+{
+  "wallColor": [
+    {
+      "label": "Red",
+      "value": "red"
+    },
+    {
+      "label": "Green",
+      "value": "green"
+    },
+    {
+      "label": "Blue",
+      "value": "blue"
+    },
+    {
+      "label": "Yellow",
+      "value": "yellow"
+    },
+    {
+      "label": "Purple",
+      "value": "purple"
+    },
+    {
+      "label": "Orange",
+      "value": "orange"
+    },
+    {
+      "label": "Pink",
+      "value": "pink"
+    },
+    {
+      "label": "White",
+      "value": "white"
+    },
+    {
+      "label": "Black",
+      "value": "black"
+    },
+    {
+      "label": "Grey",
+      "value": "grey"
+    },
+    {
+      "label": "Brown",
+      "value": "brown"
+    }
+  ]
+}
